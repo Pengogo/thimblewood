@@ -5,7 +5,7 @@
   "author": "",
   "chapters": {
     "1": {
-      "title": "Part 1",
+      "title": "Round 1",
       "volume": "1",
       "groups": {
         "primary": "/proxy/api/imgur/chapter/QpEYYAo"
@@ -13,7 +13,7 @@
       "last_updated": "1691737079882"
     },
     "2": {
-      "title": "Part 2",
+      "title": "Round 2",
       "volume": "1",
       "groups": {
         "primary": "/proxy/api/imgur/chapter/PflMprI"
