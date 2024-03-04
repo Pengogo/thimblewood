@@ -1,0 +1,24 @@
+{
+  "title": "Thimblewood: Small Stakes",
+  "description": "A small scale OCT set in a fantastical village",
+  "artist": "",
+  "author": "",
+  "chapters": {
+    "1": {
+      "title": "Part 1",
+      "volume": "1",
+      "groups": {
+        "primary": "/proxy/api/imgur/chapter/QpEYYAo"
+      },
+      "last_updated": "1691737079882"
+    },
+    "2": {
+      "title": "Part 2",
+      "volume": "1",
+      "groups": {
+        "primary": "/proxy/api/imgur/chapter/PflMprI"
+      },
+      "last_updated": "1691737079882"
+    }
+  }
+}
