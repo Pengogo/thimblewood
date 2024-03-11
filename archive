@@ -19,6 +19,14 @@
         "primary": "/proxy/api/imgur/chapter/PflMprI"
       },
       "last_updated": "1691737079882"
+    },
+ "2": {
+      "title": "Round 3",
+      "volume": "1",
+      "groups": {
+        "primary": "/proxy/api/imgur/chapter/1xPOcl8"
+      },
+      "last_updated": "1691737079882"
     }
   }
 }
