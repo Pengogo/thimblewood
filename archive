@@ -20,11 +20,19 @@
       },
       "last_updated": "1691737079882"
     },
-    "3": {
+  "3": {
       "title": "Round 3",
       "volume": "1",
       "groups": {
         "primary": "/proxy/api/imgur/chapter/1xPOcl8"
+      },
+      "last_updated": "1691737079882"
+    },
+  "4": {
+      "title": "Round 4",
+      "volume": "1",
+      "groups": {
+        "primary": "/proxy/api/imgur/chapter/S5YhWL6"
       },
       "last_updated": "1691737079882"
     }
